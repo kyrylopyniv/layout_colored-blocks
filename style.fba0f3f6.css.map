@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,SAEE,QAAS,CACT,YACF,CAEA,SACE,cAEF,CAEA,SACE,gBAEF,CAEA,SACE,eAEF","file":"style.fba0f3f6.css","sourceRoot":"..\\src","sourcesContent":["div ,\nbody {\n  margin: 0;\n  height: 100px;\n}\n\n.block_1 {\n  background: red;\n  \n}\n\n.block_2 {\n  background: green;\n  \n}\n\n.block_3 {\n  background: blue;\n  \n}\n"]}
